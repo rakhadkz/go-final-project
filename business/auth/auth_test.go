@@ -4,7 +4,7 @@ import (
 	"crypto/rand"
 	"crypto/rsa"
 	"fmt"
-	"mizu2281/mizus-goservice/business/auth"
+	"rakhad/mizus-goservice/business/auth"
 	"testing"
 	"time"
 

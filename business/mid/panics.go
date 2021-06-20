@@ -2,11 +2,12 @@ package mid
 
 import (
 	"context"
-	"github.com/pkg/errors"
 	"log"
-	"mizu2281/mizus-goservice/foundation/web"
 	"net/http"
+	"rakhad/mizus-goservice/foundation/web"
 	"runtime/debug"
+
+	"github.com/pkg/errors"
 )
 
 // Panics recovers from panics and converts the panic to an error so it is

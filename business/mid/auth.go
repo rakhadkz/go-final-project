@@ -3,9 +3,9 @@ package mid
 import (
 	"context"
 	"errors"
-	"mizu2281/mizus-goservice/business/auth"
-	"mizu2281/mizus-goservice/foundation/web"
 	"net/http"
+	"rakhad/mizus-goservice/business/auth"
+	"rakhad/mizus-goservice/foundation/web"
 	"strings"
 )
 

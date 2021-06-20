@@ -1,4 +1,4 @@
-module mizu2281/mizus-goservice
+module rakhad/mizus-goservice
 
 go 1.16
 

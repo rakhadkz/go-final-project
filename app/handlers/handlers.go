@@ -2,11 +2,11 @@ package handlers
 
 import (
 	"log"
-	"mizu2281/mizus-goservice/business/auth"
-	"mizu2281/mizus-goservice/business/mid"
-	"mizu2281/mizus-goservice/foundation/web"
 	"net/http"
 	"os"
+	"rakhad/mizus-goservice/business/auth"
+	"rakhad/mizus-goservice/business/mid"
+	"rakhad/mizus-goservice/foundation/web"
 )
 
 // API constructs an http.Handler with all application routes defined.
